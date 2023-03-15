@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Tofiq",
+            "surname": "Behramzade",
+            "age": 31
+        },
+        {
+            "id": 2,
+            "name": "Aydin",
+            "surname": "Aghakishiyev",
+            "age": 21
+        },
+        {
+            "id": 3,
+            "name": "Cavid",
+            "surname": "Aliyev",
+            "age": 25
+        },
+        {
+            "id": 4,
+            "name": "Elshad",
+            "surname": "Khalilov",
+            "age": 24
+        },
+        {
+            "id": 5,
+            "name": "Eli",
+            "surname": "Behramzade",
+            "age": 69
+        },
+        {
+            "id": 6,
+            "name": "Sebine",
+            "surname": "Dunyamaliyeva",
+            "age": 28
+        },
+        {
+            "id": 7,
+            "name": "Milana",
+            "surname": "Medvedeva",
+            "age": 17
+        }
+    ]
+}
